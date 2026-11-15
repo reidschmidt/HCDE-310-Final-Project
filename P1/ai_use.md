@@ -166,3 +166,9 @@ Me: For one of my music ideas I like concertgoers finding shows and maybe gettin
 AI: I actually think these are two strong directions, and they could make for very interesting HCDE projects. I'd keep them as separate concepts for now rather than combining them.
 
 Both have clear audiences, real-world problems, and opportunities to combine multiple APIs.
+
+Chat Log: Can you generate me an idea of the UI of the app so that I can get an idea off of what the app could look like?
+
+Here’s a mockup of the key moment, the results screen.
+![alt text](image.png)
+This is a reference mockup. For your submission, redraw it by hand or in Figma, since the assignment wants your own sketch. Photos of paper are fine. The key parts are the weather card, the mood chips (which let users override the suggestion), the track list with preview buttons, and the saved moods line.
